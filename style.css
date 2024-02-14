@@ -1,0 +1,13 @@
+.homediv{
+    color: white;
+    background-color:black;
+    height: 150px;
+    border-radius: 10px;
+}
+.homebut{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    width: 482.8px;
+}
